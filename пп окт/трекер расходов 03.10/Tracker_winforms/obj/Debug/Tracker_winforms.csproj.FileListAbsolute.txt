@@ -1,0 +1,15 @@
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\bin\Debug\Tracker_winforms.exe.config
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\bin\Debug\Tracker_winforms.exe
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\bin\Debug\Tracker_winforms.pdb
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\obj\Debug\Tracker_winforms.csproj.AssemblyReference.cache
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\obj\Debug\Tracker_winforms.Form1.resources
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\obj\Debug\Tracker_winforms.Properties.Resources.resources
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\obj\Debug\Tracker_winforms.csproj.GenerateResource.cache
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\obj\Debug\Tracker_winforms.csproj.CoreCompileInputs.cache
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\obj\Debug\Tracker_winforms.exe
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\obj\Debug\Tracker_winforms.pdb
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\bin\Debug\LiveCharts.dll
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\bin\Debug\LiveCharts.pdb
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\bin\Debug\LiveCharts.xml
+C:\Users\Student406-11\source\repos\Tracker_winforms\Tracker_winforms\obj\Debug\Tracker_.C3EF5474.Up2Date
